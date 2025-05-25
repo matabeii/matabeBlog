@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'PaperMod'
 [build.environment]
   HUGO_VERSION = "0.147.5"
+theme = 'ananke'
